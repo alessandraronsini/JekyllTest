@@ -1,0 +1,9 @@
+name: Test
+description: This is just a test site
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
